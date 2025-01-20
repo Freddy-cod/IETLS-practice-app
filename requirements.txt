@@ -1,0 +1,7 @@
+streamlit
+vosk
+spacy
+fpdf
+torch
+transformers
+pyaudio
